@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My name is **Gusti Muhammad Aulia Nur Sulthan**.
+
+I'm Student of [University Lambung Mangkurat](https://ulm.ac.id/id/) at South Borneo
+
+🌱 I’m currently learning *Machine Learning*
 <!--
 **tnnz20/tnnz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
