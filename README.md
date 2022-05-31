@@ -7,7 +7,7 @@ I'm Student of [University Lambung Mangkurat](https://ulm.ac.id/id/) at South Bo
 🌱 I’m currently learning `Machine Learning`, `Python`, `C++`.
 
 📫 How to reach me: </br>
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/virgiawankusuma/](https://www.linkedin.com/in/tann20))
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tann20)
 [<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kaitora200@gmail.com)
 
 <!--
