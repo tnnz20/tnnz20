@@ -4,7 +4,11 @@
 
 I'm Student of [University Lambung Mangkurat](https://ulm.ac.id/id/) at South Borneo
 
-🌱 I’m currently learning `Machine Learning`, `Python`, `C++`.
+🌱 I’m currently learning `Machine Learning`, `Python`, `C++`, `Java`.
+
+👯 I’m looking to collaborate on Artificial Intelligence and any Python project.
+
+⚡ Fun fact: I love **Clean Code** and **OOP** concept.
 
 📫 How to reach me: </br>
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tann20)
